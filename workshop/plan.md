@@ -1,8 +1,15 @@
 # Workshop Plan: *Effectively Using AI for Research*
 
+## 0. Tone: tip sharing, not a lecture
+
+- Frame it as **"27 tips from daily use"**. Each slide is one practical move with a prompt or a concrete how-to.
+- Speak in the first person: what worked for you, what didn't. The speaker notes have `[Your story: …]` slots for this.
+- Keep the background studies and policy detail **out of the slides**. They live in `guide/` for anyone who wants depth. On slides, mention a number only when it makes a tip memorable (e.g. "delves" ×28).
+- End by asking the room for *their* tricks.
+
 ## 1. The narrative spine
 
-One mental model runs through all five modules, so the workshop feels like one talk rather than five tool tours:
+One habit runs through all five modules, so the workshop feels like one talk rather than five tool tours:
 
 > ### **Spec → Generate → Verify**
 > *You* decide what is wanted (the spec). AI produces (generate). *You* check it against reality (verify).
